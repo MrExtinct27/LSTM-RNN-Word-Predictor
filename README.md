@@ -148,7 +148,6 @@ streamlit run app.py
 - Shakespeare’s Hamlet text from [NLTK Gutenberg Corpus](https://www.nltk.org/)
 - TensorFlow/Keras for modeling
 - Streamlit for UI
-- Developed by [Your Name Here]
 
 ---
 
