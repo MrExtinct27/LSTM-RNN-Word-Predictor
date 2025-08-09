@@ -2,7 +2,7 @@
 
 This project is a deep learning application that predicts the **next word** in a sentence using an LSTM-based neural network trained on **Shakespeare's Hamlet**. It uses **NLTK for text loading**, **TensorFlow/Keras for training**, and is deployed using **Streamlit** for a real-time prediction interface.
 
-👉 **Live Demo**: *Coming soon (deploy to Streamlit Cloud)*
+👉 **Live Demo**: * ([Click Here!](https://lstm-rnn-word-predictor-ypm.streamlit.app/))*
 
 ---
 
